@@ -1,0 +1,120 @@
+	h1 {
+			font-family: "Trade Winds", cursive;
+			font-size: 20px;
+			color: #E59866;
+		}
+	h2 {
+			font-family: "Trade Winds", cursive;
+			font-size: 16px;
+			color: #E59866;
+			border-top: 1px solid #ddd;
+			padding-top: 20px;
+		} 
+	p{
+		margin-bottom: 100px;
+		color: #FDEDEC;
+
+		}
+		a {
+			color: #FDEDEC;
+			text-decoration: none;
+		}
+		a:hover {
+			text-decoration: underline;
+		}
+		html {
+			overflow-y: scroll;
+		}
+
+	body{
+		background-image:url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0131/8390/rrrHarley_Quinn_2_mirror.png");
+		margin:0;
+		font-family: "Trade Winds", cursive;
+		font-size: 16px;
+		line-height: 20px;
+		margin: 0;
+
+	}
+	#banner {
+		width: 700px;
+		margin: 0 auto;
+		text-align: center;
+		
+		
+	}
+	#nav a{
+		font-family: "Trade Winds", cursive;
+		font-weight: bold;
+		color: #FF0048;
+		margin-right: 10px;
+		padding: 10px;
+
+	}
+	#nav {
+		white-space: nowrap;
+		text-align: center;
+		text-transform: uppercase;
+
+	}
+	#nav a {
+		font-family: "Trade Winds", cursive;
+		font-weight: bold;
+		color: #F5B7B1;
+		text-transform: uppercase;
+		margin-right: 10px;
+		padding: 10px;
+	}
+
+	#nav a:hover {
+		color: #EBDEF0;
+		text-decoration: none;
+		border-bottom: 2px solid #F5B7B1;
+	}
+
+	#main {
+		color:#f0f8ff;
+		width: 650px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	@import url('https://fonts.googleapis.com/css?family=Bigelow+Rules|Finger+Paint');
+	.imgLeft {
+		float: left;
+		margin-right: 15px;
+	}
+
+	.imgRight {
+		float: right;
+		margin-left: 15px;
+	}
+	.quicklinks {
+		font-family: "Trade Winds", cursive;
+		font-size: 11px;
+	}
+
+	#banner h1 {
+		font-family: "Trade Winds", cursive;
+		color: #FDEBD0;
+		font-size: 30px;
+		text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	}
+	#banner h2 {
+		font-family: "Trade Winds", cursive;
+		color: #85C1E9;
+		font-size: 24px;
+		text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	}
+
+
+	#footer{
+		width: 30px;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: "Finger Paint", cursive;
+		color: #F5B7B1;
+		font-size: 10px; 
+		text-transform: uppercase;
+		padding-top: 20px;
+		}
+
