@@ -1,3 +1,5 @@
+
+
 	h1 {
 			font-family: "Trade Winds", cursive;
 			font-size: 20px;
@@ -13,6 +15,8 @@
 	p{
 		margin-bottom: 100px;
 		color: #FDEDEC;
+		justify-content: center;
+  		align-items: center;
 
 		}
 		a {
@@ -54,8 +58,10 @@
 		white-space: nowrap;
 		text-align: center;
 		text-transform: uppercase;
+		
+}
 
-	}
+	
 	#nav a {
 		font-family: "Trade Winds", cursive;
 		font-weight: bold;
@@ -63,12 +69,15 @@
 		text-transform: uppercase;
 		margin-right: 10px;
 		padding: 10px;
-	}
+		
+}
+	
 
 	#nav a:hover {
 		color: #EBDEF0;
 		text-decoration: none;
 		border-bottom: 2px solid #F5B7B1;
+		
 	}
 
 	#main {
@@ -87,6 +96,7 @@
 	.imgRight {
 		float: right;
 		margin-left: 15px;
+
 	}
 	.quicklinks {
 		font-family: "Trade Winds", cursive;
@@ -116,5 +126,18 @@
 		font-size: 10px; 
 		text-transform: uppercase;
 		padding-top: 20px;
-		}
+		
+}
+	
 
+	
+	.superFlex{
+
+		display:flex;
+		align-content: space-around;
+		flex-direction:row;
+	}	
+
+	 
+	
+		
